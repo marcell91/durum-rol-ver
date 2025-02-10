@@ -1,1 +1,1 @@
-# durum-rol-ver
+guzelce kulanın arkadaslar degerlı bır altyapı cunku suan prıv sunucularda herkes enayı gıbı elıyle rol verıyor cok basit bir sekilde duruma istediginiz seyi aldiginda rolu 1 saniye icinde veriyor logu ise cmd de atiyor hepinizi seviyorum. <3
