@@ -58,4 +58,4 @@ client.on('presenceUpdate', (oldPresence, newPresence) => {
   }
 });
 
-client.login(cfg.TOKEN);
+client.login(cfg.TOKEN); // made by marcell.xd alın yengenın hayrına kullanın ıtler sızı
